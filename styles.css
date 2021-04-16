@@ -1,0 +1,45 @@
+/* add \your CSS here */
+.animal-trading-card{
+  width:320px;
+  height: auto;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px grey;
+  background-color: rgba(70,141,86,.5);
+}
+
+.interesting-fact{
+  font-style: italic;
+}
+
+.animal-facts{
+  border: 1px solid black;
+  width:290px;
+  padding: 5px;
+  margin: 10px;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+img{
+  width:300px;
+  float: none;
+  margin: 5px;
+  padding: 5px;
+}
+
+span{
+  font-weight: bold;
+}
+
+h3{
+  padding: 5px;
+  margin: 5px;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
